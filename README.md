@@ -1,5 +1,5 @@
 # Global Terrorism Analysis
-![terrorism](terrorism.png)
+![terrorism](terrorism.jpg)
 
 # Programming Language
 
