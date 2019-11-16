@@ -28,6 +28,4 @@ This project was designed and implemented by Josh Gardner.
 
 This project's analysis is complete. There is room for further research into this topic.
 
-# [Project Code](https://github.com/Yasa-Mufasa/Global-Terrorism-Analysis)
-
 # [Return Home](https://yasa-mufasa.github.io/Josh-Gardner.github.io/)
